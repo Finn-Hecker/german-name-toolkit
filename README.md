@@ -97,6 +97,10 @@ Gefundene Duplikate: Max, Anna, Tom
 Fertig!
 ```
 
+## Datenquelle
+
+Die in `vornamen.txt` enthaltene Liste der Vornamen wurde mithilfe von ChatGPT (Modell GPT-4) generiert. Bitte beachte, dass die Liste möglicherweise nicht vollständig ist und Fehler enthalten kann. Die bereitgestellten Skripte dienen dazu, diese Liste zu verwalten und zu bereinigen.
+
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Details findest Du in der `LICENSE`-Datei.
